@@ -6,6 +6,9 @@ Brain-Tumor-Detection :warning:
 
 ***
 
+![Frame 2 (3)](https://github.com/NavindaFernando/Brain-Tumor-Detection/assets/86073690/6685f291-fab8-4f33-b2ba-35de10786ade)
+
+
 <h6 align="center">
 dev environment :microscope:
 </h6>
