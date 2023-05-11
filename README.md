@@ -2,6 +2,8 @@
 Brain-Tumor-Detection :warning:
 </h3>
 
+![Frame 2 (2)](https://github.com/NavindaFernando/Brain-Tumor-Detection/assets/86073690/a014d5c8-2934-413b-bd34-18b68c31de5b)
+
 ***
 
 <h6 align="center">
